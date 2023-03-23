@@ -1,5 +1,5 @@
 # 💫 About Me:
-GSoD intern at OpenRobotics(Open-RMF)<br>Blogger at learnopencv.com<br>Part of AutoLap a F1tenth team
+GSoD intern at OpenRobotics(Open-RMF)
 
 
 ## 🌐 Socials:
