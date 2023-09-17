@@ -1,5 +1,5 @@
 # 💫 About Me:
-GSoD intern at OpenRobotics(Open-RMF)
+MSc Robotics at KCL
 
 
 ## 🌐 Socials:
