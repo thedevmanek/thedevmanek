@@ -1,5 +1,5 @@
 # 💫 About Me:
-MSc Robotics at KCL
+Robotics Software Engineer
 
 
 ## 🌐 Socials:
